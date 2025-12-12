@@ -6,11 +6,17 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/). I am also affiliated with the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/), the [Coordinated Science Laboratory](https://csl.illinois.edu/), and the [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/).
+## About Me
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+I am a PhD student in the Department of Economics at the London School of Economics. I am also affiliated with [The Centre for Economic Performance (CEP)](https://cep.lse.ac.uk/).
 
-Previously, I completed my PhD in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my BS in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins](https://ccvl.jhu.edu/), [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), and [National University of Singapore](https://www.comp.nus.edu.sg/).
+--
+
+## Research Interests
+- International Trade, Spatial Economics, Public Economics
+- Environmental and Climate Economics, Public Finance
+
+--
 
 {% include_relative _includes/news.md %}
 
