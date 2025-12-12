@@ -1,35 +1,35 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois
+title: Yuanhang(Leo) Yu
+position: PhD Student
+affiliation: London School of Economics
 affiliation_link: https://www.illinois.edu/
-affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+#affiliation_logo: ./assets/img/illinois.svg
+email: y.yu42 (at) lse.ac.uk
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
+keywords: yuanhang(Leo) yu, yuanhang yu, leo yu
 canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
+description: Yuanhang(Leo) Yu is PhD student at the London School of Economics. His research lies in international trade, spatial economics. 
 
 # The option is used to enable the Illinois template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+#google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
+#github_link: https://github.com/yaoyao-liu/
+#linkedin: https://www.linkedin.com/in/liuyaoyao/
+twitter: https://x.com/yyhleo289
 
 # Images 
 avatar: https://img.yliu.me/avatar_new.jpg
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+#footnote: Feel free to use my website's source code.
+#footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
