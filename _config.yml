@@ -9,7 +9,7 @@ email: y.yu42 (at) lse.ac.uk
 # Search Engine Optimization (SEO)
 keywords: yuanhang(Leo) yu, yuanhang yu, leo yu
 canonical: https://yuanhang-leo-yu.github.io/
-description: Yuanhang(Leo) Yu is PhD student at the London School of Economics. His research lies in international trade, spatial economics. 
+description: Yuanhang(Leo) Yu is a PhD student at the London School of Economics. His research insterest includes international trade, spatial economics, public economics, environmental and climate economics.
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: false
@@ -25,7 +25,7 @@ link_type: icon #text/icon
 twitter: https://x.com/yyhleo289
 
 # Images 
-avatar: /assets/img/Yuanhang_Yu_purple.JPG
+avatar: /assets/img/Yuanhang_Yu_purple.jpg
 
 # Footnotes
 #footnote: Feel free to use my website's source code.
