@@ -1,9 +1,5 @@
 main:
 
-  - title: "Teaching"
-    url: teaching/
-    right: true 
-
 #  - title: "Services"
 #   url: services/
 
@@ -13,8 +9,12 @@ main:
   #- title: "Teaching"
   #  url: ./teaching.html
 
+  - title: "Home"
+    url: ./
+    
   - title: "Research"
     url: publications/
 
-  - title: "Home"
-    url: ./
+   - title: "Teaching"
+    url: teaching/
+    right: true 
