@@ -18,6 +18,13 @@ I am a PhD student in the Department of Economics at the London School of Econom
 
 ---
 
+## Research Projects
+- Trade Liberalisation, Informality and Gender Employment Gap: Evidence from Brazil
+- The Non-economic Effect of Trade: the International Spillover of Air Pollution (Joint with Antonio Avila-Uribe, Ningyuan Jia)
+- The Economic Geography of Talent: Evidence from the China Initiative (Joint with Jia Yang, Ningyuan Jia)
+
+---
+
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/contact.md %}
