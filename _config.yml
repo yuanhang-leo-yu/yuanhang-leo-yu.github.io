@@ -2,7 +2,7 @@
 title: Yuanhang(Leo) Yu
 position: PhD Student
 affiliation: London School of Economics
-affiliation_link: https://www.illinois.edu/
+affiliation_link: https://www.lse.ac.uk/economics
 #affiliation_logo: ./assets/img/illinois.svg
 email: y.yu42 (at) lse.ac.uk
 
@@ -25,7 +25,7 @@ link_type: icon #text/icon
 twitter: https://x.com/yyhleo289
 
 # Images 
-avatar: https://github.com/yuanhang-leo-yu/yuanhang-leo-yu.github.io/assets/img/Yuanhang_Yu_purple.JPG
+avatar: /assets/img/Yuanhang_Yu_purple.JPG
 
 # Footnotes
 #footnote: Feel free to use my website's source code.
