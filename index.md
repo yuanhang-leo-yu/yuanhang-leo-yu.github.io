@@ -20,7 +20,7 @@ Welcome! I am a PhD student at the [London School of Economics](https://www.lse.
 
 ## Research Interests
 
-- Spatial economics, International trade and economics, Environmental Economics
+- International trade and International economics, Spatial economics, Environmental economics
 
   ***
 
