@@ -3,4 +3,5 @@
 <h2 style="margin: 0px 0px 10px;">Miscs</h2>
 
 - [Economists](./mycodes.html)
+- [Economists](./economists.html)
 - [Useful External Links](./useful-links.html)
