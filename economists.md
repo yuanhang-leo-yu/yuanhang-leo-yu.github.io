@@ -4,7 +4,7 @@ layout: homepage
 <div class="blank-div"></div>
 
 ## International Trade and Spatial Economics
-* [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/home) [Andrés Rodríguez-Clare](https://andres.econ.berkeley.edu/home)
+* <ins>[Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/home)</ins><ins>[Andrés Rodríguez-Clare](https://andres.econ.berkeley.edu/home)</ins>
 * Slides [(Dave Donaldson)](https://dave-donaldson.com/teaching){:target="_blank" rel="noopener"}
 * Notes [(Treb Allen)](https://sites.google.com/site/treballen/graduate-trade){:target="_blank" rel="noopener"}
 * Slides [(Costas Arkolakis)](https://arkolakis.com/teaching){:target="_blank" rel="noopener"}
