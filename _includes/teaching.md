@@ -11,15 +11,14 @@
   <!-- Purdue University Section -->
   <h4 style="margin:0 10px 0;">Teaching Fellow, London School of Economics</h4>
   <ul style="margin:0 0 5px;">
-    <li>Quantitative Method (Summer 2019), <a href="./files/pdf/TeachingEvalSU19.PDF" target="_blank">Instructor Eval 4.7/5.0</a> (Award: Krannert Certificate for Distinguished Teaching)</li>
-    <li>Intro to Causal Inference (Fall 2022), Volunteer for Purdue Econ Assoc. (Undergrad Club)</li>
+    <li>Quantitative Approaches and Policy Analysis (2023 - 2026), Award: Krannert Certificate for Distinguished Teaching</li>
+    <li>Introdutory Courses for Master of Public Administration (2023, 2024), Volunteer for Purdue Econ Assoc. (Undergrad Club)</li>
   </ul>
 
   <!-- Purdue TA Section -->
   <h4 style="margin:0 10px 0;">Teaching Assistant, London School of Economics</h4>
   <ul style="margin:0 0 5px;">
-    <li>Undergraduate: Principles of Economics (Fall 2017), Macroeconomics (Spring 2018), International Trade (Spring 2021, 2023), Labor Economics (Summer 2022, Spring 2023)</li>
-    <li>PhD: Microeconomics II (Fall 2018)</li>
+    <li>Econometrics I (2025), International Economics Summer School (2023), Introduction of Econometrics (2021 - 2022)</li>
   </ul>
 
   <!-- Yonsei University Section -->
