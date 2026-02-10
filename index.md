@@ -28,6 +28,10 @@ Welcome! I am a PhD student at the [London School of Economics](https://www.lse.
 
   ***
 
+  {% include_relative _includes/publications.md %}
+
+  ***
+
   {% include_relative _includes/teaching.md %}
 
 <!--- {% include_relative _includes/services.md %} --->
