@@ -10,7 +10,7 @@ main:
   #    page: https://lyy.mpi-inf.mpg.de/CL-DETR/
   #    bibtex: https://bib.yliu.me/MICCAI23.txt
   #    image: https://img.yliu.me/teaser/miccai2023.png
-    pdf: https://yuanhang-leo-yu.github.io/files/pdf/JMP.pdf
+  #    pdf: https://yuanhang-leo-yu.github.io/files/pdf/JMP.pdf
     
   - title: "Trade Liberalisation, Informality and Gender Employment Gap: Evidence from Brazil"
     authors: <i>On revision; Draft available upon request</i>
