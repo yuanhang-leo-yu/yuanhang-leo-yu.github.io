@@ -17,8 +17,8 @@ main:
   - title: "Research"
     url: ./#ongoing
 
-  - title: "CV"
-    url: ./cv.html
+#  - title: "CV"
+#    url: ./cv.html
 
   #- title: "News"
   #  url: ./#news
