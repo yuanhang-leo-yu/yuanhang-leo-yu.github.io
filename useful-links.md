@@ -4,11 +4,11 @@ layout: homepage
 <div class="blank-div"></div>
 
 ## International Trade and Spatial Economics
-* Teaching slide: [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching) [Costas Arkolakis](https://arkolakis.com/teaching) [Stephen Redding](http://www.princeton.edu/~reddings/spatialeconomics.htm) [Treb Allen](https://sites.google.com/site/treballen/graduate-trade)
+* Teaching slide: [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching) [<u>Costas Arkolakis</u>](https://arkolakis.com/teaching) [<u>Stephen Redding</u>](http://www.princeton.edu/~reddings/spatialeconomics.htm) [<u>Treb Allen</u>](https://sites.google.com/site/treballen/graduate-trade)
 * 2020 Lectures on Urban Economics [UEA](https://urbaneconomics.org/workshops/lectures2020/){:target="_blank" rel="noopener"}
 
 ## Labour Economics
-* Structural Labour: [Christine Braun](https://christine-braun.github.io/teaching-labor.html)
+* Structural Labour: [<u>Christine Braun</u>](https://christine-braun.github.io/teaching-labor.html)
 
 ## Computational (Macro) Economics
 * Jesús Fernández-Villaverde's [teaching page](https://www.sas.upenn.edu/~jesusfv/teaching.html){:target="_blank" rel="noopener"} 
