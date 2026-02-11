@@ -4,7 +4,7 @@ layout: homepage
 <div class="blank-div"></div>
 
 ### International Trade and Spatial Economics
-* Teaching slide: [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching) <ins>[Costas Arkolakis](https://arkolakis.com/teaching)</ins> <u>[Stephen Redding](http://www.princeton.edu/~reddings/spatialeconomics.htm)</u> [<ins>Treb Allen</ins>](https://sites.google.com/site/treballen/graduate-trade)
+* Teaching slide: [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching) [<u>Costas Arkolakis</u>](https://arkolakis.com/teaching) [<u>Stephen Redding</u>](http://www.princeton.edu/~reddings/spatialeconomics.htm) [<u>Treb Allen</u>](https://sites.google.com/site/treballen/graduate-trade)
 * 2020 Lectures on Urban Economics [UEA](https://urbaneconomics.org/workshops/lectures2020/){:target="_blank" rel="noopener"}
 
 ### Labour Economics
