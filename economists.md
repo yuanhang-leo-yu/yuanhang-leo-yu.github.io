@@ -4,12 +4,13 @@ layout: homepage
 <div class="blank-div"></div>
 
 ### International Trade and Spatial Economics
-* [<u>Lorenzo Caliendo</u>](https://sites.google.com/site/lorenzocaliendo/home) [<u>Andrés Rodríguez-Clare</u>](https://andres.econ.berkeley.edu/home)
-* Slides [(Dave Donaldson)](https://dave-donaldson.com/teaching){:target="_blank" rel="noopener"}
-* Notes [(Treb Allen)](https://sites.google.com/site/treballen/graduate-trade){:target="_blank" rel="noopener"}
-* Slides [(Costas Arkolakis)](https://arkolakis.com/teaching){:target="_blank" rel="noopener"}
-* Slides [(Stephen Redding)](http://www.princeton.edu/~reddings/spatialeconomics.htm){:target="_blank" rel="noopener"}
-* 2020 Lectures on Urban Economics [UEA](https://urbaneconomics.org/workshops/lectures2020/){:target="_blank" rel="noopener"}
+* [<u>Lorenzo Caliendo</u>](https://sites.google.com/site/lorenzocaliendo/home) [<u>Andrés Rodríguez-Clare</u>](https://andres.econ.berkeley.edu/home) [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching) [<u>Treb Allen</u>](https://sites.google.com/site/treballen/graduate-trade) [<u>Costas Arkolakis</u>](https://arkolakis.com/teaching) [<u>Stephen Redding</u>](http://www.princeton.edu/~reddings/spatialeconomics.htm)
+
+### Environment and Development Economics
+* Environment: [<u>Joseph Shapiro</u>](https://joseph-s-shapiro.com/) [<u>Clare Balboni</u>](https://sites.google.com/view/clare-balboni/home) [<u>Shaoda Wang</u>](http://www.sdwang.org/) [<u>Joshua Graff Zivin</u>](https://www.joshgraffzivin.com/) [<u>Ivan Rudik</u>](https://ivanrudik.com/)
+* Development: [<u>Gabriel Ulyssea</u>](https://sites.google.com/view/gabriel-ulyssea/home) [<u>James Fenske</u>](https://warwick.ac.uk/fac/soc/economics/staff/jefenske/)
+
+
 
 ### Computational (Macro) Economics
 * Jesús Fernández-Villaverde's [teaching page](https://www.sas.upenn.edu/~jesusfv/teaching.html){:target="_blank" rel="noopener"} 
