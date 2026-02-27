@@ -4,8 +4,8 @@ layout: homepage
 <div class="blank-div"></div>
 
 ### International Trade and Spatial Economics
+* Internationl Trade: [<u>Andrés Rodríguez-Clare</u>](https://andres.econ.berkeley.edu/home) [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching)  [<u>Costas Arkolakis</u>](https://arkolakis.com/teaching)
 * Trade and Spatial: [<u>Lorenzo Caliendo</u>](https://sites.google.com/site/lorenzocaliendo/home) [<u>Treb Allen</u>](https://sites.google.com/site/treballen/graduate-trade) [<u>Stephen Redding</u>](http://www.princeton.edu/~reddings/spatialeconomics.htm)
-* [<u>Andrés Rodríguez-Clare</u>](https://andres.econ.berkeley.edu/home) [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching)  [<u>Costas Arkolakis</u>](https://arkolakis.com/teaching)
 * Economic Geography: [<u>Esteban Rossi-Hansberg</u>](https://rossihansberg.economics.uchicago.edu/index.html) [<u>Daniel Sturm</u>](https://personal.lse.ac.uk/sturmd/?_gl=1*msaurc*_gcl_au*NjUzNzExMzEyLjE3MjMwMzIyMTg.*_ga*NTE4ODU4MjE2LjE2Mzc5MzUxNjk.*_ga_LWTEVFESYX*MTcyODc2MDQ2My4xOS4wLjE3Mjg3NjA0NjUuNTguMC4w) [<u>Gabriel Ahlfeldt</u>](https://sites.google.com/view/ahlfeldt/home) [<u>Diego Puga</u>](https://diegopuga.org/) [<u>Rebecca Diamond</u>](https://www.rebecca-diamond.com/) [<u>Cecile Gaubert</u>](https://eml.berkeley.edu/~cecile.gaubert/index.html)
 
   
