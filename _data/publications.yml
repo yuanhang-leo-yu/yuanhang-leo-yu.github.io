@@ -1,24 +1,23 @@
 main:
 
   - title: "Adopt, adapt and improve: A brief look at the interplay between labour markets and technological change in the UK"
-    authors: with Rui Costa</a>
+    authors: with Rui Costa
     # authors: <strong style="color:#e74d3c; font-weight:600">Job Market Paper</strong>
     # status: 
-    abstract: "This analysis examines the UK labour market’s response to technological waves over four
-decades. Findings reveal both positive and negative effects on jobs and pay, with impacts unevenly distributed across occupations and regions. 
-Like globalization debates, policy should focus not on preventing valuable technological progress but on retraining workers at risk from automation. 
-However, UK data show concerning trends: workers in routine roles, who are most exposed to automation, experienced the largest
-declines in on-job training and are more likely to hold low qualifications with non-transferable skills. 
-Additionally, declining job mobility indicates most industry transitions now occur through entry/exit rather
-than job-to-job moves."
+    abstract: "This analysis examines the UK labour market’s response to technological waves over four decades. 
+    Findings reveal both positive and negative effects on jobs and pay, with impacts unevenly distributed across occupations and regions. 
+    Like globalization debates, policy should focus not on preventing valuable technological progress but on retraining workers at risk from automation. 
+    However, UK data show concerning trends: workers in routine roles, who are most exposed to automation, 
+    experienced the largest declines in on-job training and are more likely to hold low qualifications with non-transferable skills. 
+    Additionally, declining job mobility indicates most industry transitions now occur through entry/exit rather than job-to-job moves."
 
 
 
-  - title: "Human Capital Production in a Spatial Economy: A Quantitative Assessment of the Decentralized U.S. Education System"
-    authors: <i>On revision; Draft available upon request</i>
+#  - title: "Human Capital Production in a Spatial Economy: A Quantitative Assessment of the Decentralized U.S. Education System"
+#    authors: <i>On revision; Draft available upon request</i>
     # authors: <strong style="color:#e74d3c; font-weight:600">Job Market Paper</strong>
     # status:
-    abstract: Education and labor mobility are key drivers in the production of human capital, fundamental to economic development. In the U.S., the varying skill production efficiencies of state-specific education systems and the dynamics of worker migration shape human capital of states, influencing economic outcomes at both the state and national levels. This paper develops a novel dynamic spatial general equilibrium model with overlapping generation framework in which heterogeneous individuals accumulate human capital and move across states. Calibrated to the U.S. economy, the model illustrates how variations in education efficiency lead to substantial cross-state income disparities and shows that internal migration can notably boost output in states with lower education efficiencies. At the national level, free mobility of workers yields a 6.9% output gain. Moreover, the model suggests that variations in human capital account for 46.6% of the state variation per capita output. Applying the calibrated model to analyze the Obama Administration's Race to the Top initiative finds that the $4.1 billion grant spurred a 0.2% increase in U.S. GDP, mostly benefiting the grant-winning states and their neighbors. Additionally, alternative grant allocation experiments show that strategic reallocation of education grants, considering state skill production efficiencies, could further increase national GDP gains without necessarily worsening state income disparities.
+  #  abstract: Education and labor mobility are key drivers in the production of human capital, fundamental to economic development. In the U.S., the varying skill production efficiencies of state-specific education systems and the dynamics of worker migration shape human capital of states, influencing economic outcomes at both the state and national levels. This paper develops a novel dynamic spatial general equilibrium model with overlapping generation framework in which heterogeneous individuals accumulate human capital and move across states. Calibrated to the U.S. economy, the model illustrates how variations in education efficiency lead to substantial cross-state income disparities and shows that internal migration can notably boost output in states with lower education efficiencies. At the national level, free mobility of workers yields a 6.9% output gain. Moreover, the model suggests that variations in human capital account for 46.6% of the state variation per capita output. Applying the calibrated model to analyze the Obama Administration's Race to the Top initiative finds that the $4.1 billion grant spurred a 0.2% increase in U.S. GDP, mostly benefiting the grant-winning states and their neighbors. Additionally, alternative grant allocation experiments show that strategic reallocation of education grants, considering state skill production efficiencies, could further increase national GDP gains without necessarily worsening state income disparities.
   #    conference_short: MICCAI
   #    conference: presented at here, there and <strong>(THERE)</strong>, 2023.
   #    code: https://github.com/MrGiovanni/ContinualLearning
