@@ -6,6 +6,7 @@ layout: homepage
 ### International Trade and Spatial Economics
 * Teaching Material: [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching) [<u>Costas Arkolakis</u>](https://arkolakis.com/teaching) [<u>Stephen Redding</u>](http://www.princeton.edu/~reddings/spatialeconomics.htm) [<u>Treb Allen</u>](https://sites.google.com/site/treballen/graduate-trade)
 * 2020 Lectures on Urban Economics [UEA](https://urbaneconomics.org/workshops/lectures2020/)
+* [Gabriel Ahlfeldt's toolbox](https://sites.google.com/view/ahlfeldt/toolkits-and-webtools)
 
 ### Labour Economics
 * Structural Labour: [<u>Christine Braun</u>](https://christine-braun.github.io/teaching-labor.html)
