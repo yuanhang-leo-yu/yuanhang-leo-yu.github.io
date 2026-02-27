@@ -4,13 +4,14 @@ layout: homepage
 <div class="blank-div"></div>
 
 ### International Trade and Spatial Economics
-* [<u>Lorenzo Caliendo</u>](https://sites.google.com/site/lorenzocaliendo/home) [<u>Andrés Rodríguez-Clare</u>](https://andres.econ.berkeley.edu/home) [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching) [<u>Treb Allen</u>](https://sites.google.com/site/treballen/graduate-trade) [<u>Costas Arkolakis</u>](https://arkolakis.com/teaching) [<u>Stephen Redding</u>](http://www.princeton.edu/~reddings/spatialeconomics.htm)
+* Trade and Spatial: [<u>Lorenzo Caliendo</u>](https://sites.google.com/site/lorenzocaliendo/home) [<u>Treb Allen</u>](https://sites.google.com/site/treballen/graduate-trade) [<u>Stephen Redding</u>](http://www.princeton.edu/~reddings/spatialeconomics.htm)
+* [<u>Andrés Rodríguez-Clare</u>](https://andres.econ.berkeley.edu/home) [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching)  [<u>Costas Arkolakis</u>](https://arkolakis.com/teaching)
+* Economic Geography: [<u>Esteban Rossi-Hansberg</u>](https://rossihansberg.economics.uchicago.edu/index.html) [<u>Daniel Sturm</u>](https://personal.lse.ac.uk/sturmd/?_gl=1*msaurc*_gcl_au*NjUzNzExMzEyLjE3MjMwMzIyMTg.*_ga*NTE4ODU4MjE2LjE2Mzc5MzUxNjk.*_ga_LWTEVFESYX*MTcyODc2MDQ2My4xOS4wLjE3Mjg3NjA0NjUuNTguMC4w) [<u>Gabriel Ahlfeldt</u>](https://sites.google.com/view/ahlfeldt/home) [<u>Diego Puga</u>](https://diegopuga.org/) [<u>Rebecca Diamond</u>](https://www.rebecca-diamond.com/) [<u>Cecile Gaubert</u>](https://eml.berkeley.edu/~cecile.gaubert/index.html)
 
+  
 ### Environment and Development Economics
 * Environment: [<u>Joseph Shapiro</u>](https://joseph-s-shapiro.com/) [<u>Clare Balboni</u>](https://sites.google.com/view/clare-balboni/home) [<u>Shaoda Wang</u>](http://www.sdwang.org/) [<u>Joshua Graff Zivin</u>](https://www.joshgraffzivin.com/) [<u>Ivan Rudik</u>](https://ivanrudik.com/)
 * Development: [<u>Gabriel Ulyssea</u>](https://sites.google.com/view/gabriel-ulyssea/home) [<u>James Fenske</u>](https://warwick.ac.uk/fac/soc/economics/staff/jefenske/)
-
-
 
 ### Computational (Macro) Economics
 * Jesús Fernández-Villaverde's [teaching page](https://www.sas.upenn.edu/~jesusfv/teaching.html){:target="_blank" rel="noopener"} 
@@ -22,25 +23,7 @@ layout: homepage
 * Ivan Rudik's [course website](https://github.com/AEM7130/class-repo){:target="_blank" rel="noopener"} for Dynamic Optimization
 * MATLABMetal: Apple Metal GPU processing toolbox for MATLAB on macOS [(Tony Davis)](https://github.com/tessive/MatlabMetal){:target="_blank" rel="noopener"}
 
-### General Tips for PhD Students
-* A list of Trade JMPs [(Jonathan Dingel)](https://tradediversion.net/tag/jmp/){:target="_blank" rel="noopener"}
-* Trade PhD Package [(Stephen Redding)](http://www.princeton.edu/~reddings/TradePhd.htm){:target="_blank" rel="noopener"}
-* Finding Topics [(Lutz Hendricks)](https://lhendricks.org/graduate/dissertation_tips.html){:target="_blank" rel="noopener"}
 
-### Research Logistics
-* Tips + Tricks with Beamer for Economists [(Paul Goldsmith-Pinkham)](https://paulgp.github.io/beamer_tips.pdf){:target="_blank" rel="noopener"}
-* Effective Workflows for Economic Research [(Brendan Price)](https://www.brendanmichaelprice.com/workflow/){:target="_blank" rel="noopener"}
-
-### Data Sources
-* [UN Comtrade](https://comtrade.un.org){:target="_blank" rel="noopener"}
-* [STAN STructural ANalysis Database](https://www.oecd.org/industry/ind/stanstructuralanalysisdatabase.htm){:target="_blank" rel="noopener"}
-* [Forum for Research in Empirical International Trade (FREIT)](https://www.freit.org/Resources.php){:target="_blank" rel="noopener"}
-* [County Business Patterns Database](http://fpeckert.me/cbp/){:target="_blank" rel="noopener"}
-* [Early County Business Patterns Database](http://fpeckert.me/elmmss/){:target="_blank" rel="noopener"}
-* [Markus Eberhardt's Macro Data List](https://sites.google.com/site/medevecon/devecondata/macro){:target="_blank" rel="noopener"}
-* [Peter Schott's Data page](https://sompks4.github.io/sub_data.html){:target="_blank" rel="noopener"}
-* [David Dorn's Data page](http://ddorn.net/data.htm){:target="_blank" rel="noopener"}
-* [Longitudinal Firm Trade Transactions Database (LFTTD)](https://www.census.gov/programs-surveys/ces/data/restricted-use-data/longitudinal-firm-trade-transaction-database.html){:target="_blank" rel="noopener"}
 
 
 <!--- [[back](./)] --->
