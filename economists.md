@@ -5,17 +5,17 @@ layout: homepage
 
 ### International Trade and Spatial Economists
 * Internationl Trade: [<u>Andrés Rodríguez-Clare</u>](https://andres.econ.berkeley.edu/home), [<u>Dave Donaldson</u>](https://dave-donaldson.com/teaching), [<u>Costas Arkolakis</u>](https://arkolakis.com/teaching)
-* Trade and Spatial: [<u>Lorenzo Caliendo</u>](https://sites.google.com/site/lorenzocaliendo/home) [<u>Treb Allen</u>](https://sites.google.com/site/treballen/graduate-trade) [<u>Stephen Redding</u>](http://www.princeton.edu/~reddings/spatialeconomics.htm)
-* Economic Geography: [<u>Esteban Rossi-Hansberg</u>](https://rossihansberg.economics.uchicago.edu/index.html) [<u>Daniel Sturm</u>](https://personal.lse.ac.uk/sturmd/?_gl=1*msaurc*_gcl_au*NjUzNzExMzEyLjE3MjMwMzIyMTg.*_ga*NTE4ODU4MjE2LjE2Mzc5MzUxNjk.*_ga_LWTEVFESYX*MTcyODc2MDQ2My4xOS4wLjE3Mjg3NjA0NjUuNTguMC4w) [<u>Gabriel Ahlfeldt</u>](https://sites.google.com/view/ahlfeldt/home) [<u>Diego Puga</u>](https://diegopuga.org/) [<u>Rebecca Diamond</u>](https://www.rebecca-diamond.com/) [<u>Cecile Gaubert</u>](https://eml.berkeley.edu/~cecile.gaubert/index.html)
+* Trade and Spatial: [<u>Lorenzo Caliendo</u>](https://sites.google.com/site/lorenzocaliendo/home), [<u>Treb Allen</u>](https://sites.google.com/site/treballen/graduate-trade), [<u>Stephen Redding</u>](http://www.princeton.edu/~reddings/spatialeconomics.htm)
+* Economic Geography: [<u>Esteban Rossi-Hansberg</u>](https://rossihansberg.economics.uchicago.edu/index.html), [<u>Daniel Sturm</u>](https://personal.lse.ac.uk/sturmd/?_gl=1*msaurc*_gcl_au*NjUzNzExMzEyLjE3MjMwMzIyMTg.*_ga*NTE4ODU4MjE2LjE2Mzc5MzUxNjk.*_ga_LWTEVFESYX*MTcyODc2MDQ2My4xOS4wLjE3Mjg3NjA0NjUuNTguMC4w), [<u>Gabriel Ahlfeldt</u>](https://sites.google.com/view/ahlfeldt/home), [<u>Diego Puga</u>](https://diegopuga.org/), [<u>Rebecca Diamond</u>](https://www.rebecca-diamond.com/), [<u>Cecile Gaubert</u>](https://eml.berkeley.edu/~cecile.gaubert/index.html)
 
   
 ### Environment and Development Economists
-* Environment: [<u>Joseph Shapiro</u>](https://joseph-s-shapiro.com/) [<u>Clare Balboni</u>](https://sites.google.com/view/clare-balboni/home) [<u>Shaoda Wang</u>](http://www.sdwang.org/) [<u>Joshua Graff Zivin</u>](https://www.joshgraffzivin.com/) [<u>Ivan Rudik</u>](https://ivanrudik.com/)
-* Development: [<u>Gabriel Ulyssea</u>](https://sites.google.com/view/gabriel-ulyssea/home) [<u>James Fenske</u>](https://warwick.ac.uk/fac/soc/economics/staff/jefenske/)
+* Environment: [<u>Joseph Shapiro</u>](https://joseph-s-shapiro.com/), [<u>Clare Balboni</u>](https://sites.google.com/view/clare-balboni/home), [<u>Shaoda Wang</u>](http://www.sdwang.org/), [<u>Joshua Graff Zivin</u>](https://www.joshgraffzivin.com/), [<u>Ivan Rudik</u>](https://ivanrudik.com/)
+* Development: [<u>Gabriel Ulyssea</u>](https://sites.google.com/view/gabriel-ulyssea/home), [<u>James Fenske</u>](https://warwick.ac.uk/fac/soc/economics/staff/jefenske/)
   
 
 ### Labour and Public Economists
-* Labour: [<u>Daron Acemoglu</u>](https://economics.mit.edu/people/faculty/daron-acemoglu) [<u>David Dorn</u>](https://www.ddorn.net/)
+* Labour: [<u>Daron Acemoglu</u>](https://economics.mit.edu/people/faculty/daron-acemoglu), [<u>David Dorn</u>](https://www.ddorn.net/)
 
 ### Macro Economists
 * Benjamin Moll's [teaching page](https://benjaminmoll.com/lectures/){:target="_blank" rel="noopener"} 
