@@ -5,12 +5,12 @@ main:
     # status: 
     abstract: "Air pollution disperses across political boundaries, yet many environmental policies regulate specific polluted locations. This paper studies how cross-boundary transport of fine particulate matter (PM2.5) changes the welfare effect and design of pollutant control policy in China. Using particle trajectory data from atmospheric transport models, we construct bilateral flow matrices that measure the transboundary air pollution in China. Three patterns emerge: (1) Transboundary pollution is heterogeneous across space, ranging from less than 10% to over 50% of local PM2.5 concentrations; (2) Bilateral pollutant transport networks remain stable over time, enabling long-term policy coordination without frequent recalibration; and (3) Economically developed provinces in China receive more transboundary pollution yet achieve larger pollution reduction. We develop a dynamic spatial general equilibrium model that incorporates pollutant transport, trade, and migration. Using this model, we estimate that transboundary air pollution creates a 1% national welfare loss relative to a counterfactual where pollution remains local. We evaluate China's Air Pollution Prevention and Control Action Plan and compare it to alternative allocation rules. Reallocating abatement to high-spillover upwind provinces based on marginal social welfare of emission tax improves aggregate welfare by 0.18% relative to the actual policy. The findings reveal welfare gains from accounting for spatial externalities in policy design."
     pdf: https://yuanhang-leo-yu.github.io/files/pdf/JMP.pdf
-  #    conference_short: MICCAI
-  #    conference: presented at here, there and <strong>(THERE)</strong>, 2023.
-  #    code: https://github.com/MrGiovanni/ContinualLearning
-  #    page: https://lyy.mpi-inf.mpg.de/CL-DETR/
-  #    bibtex: https://bib.yliu.me/MICCAI23.txt
-  #    image: https://img.yliu.me/teaser/miccai2023.png
+  # conference_short: MICCAI
+  # conference: presented at here, there and <strong>(THERE)</strong>, 2023.
+  # code: https://github.com/MrGiovanni/ContinualLearning
+  # page: https://lyy.mpi-inf.mpg.de/CL-DETR/
+  # bibtex: https://bib.yliu.me/MICCAI23.txt
+  # image: https://img.yliu.me/teaser/miccai2023.png
     
     
   - title: "Trade Liberalisation, Informality and Gender Employment Gap: Evidence from Brazil"
@@ -20,22 +20,22 @@ main:
   # oldtitle: "Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare"
   # status: "previously titled: Care for the China Syndrome: Trade Shock, Sick Workers, and Access to Healthcare"
   # pdf: https://sunhamkim.github.io/files/pdf/KKX.pdf
-    
-
-  #    pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #    code: https://github.com/MrGiovanni/ContinualLearning
-  #    page: https://lyy.mpi-inf.mpg.de/CL-DETR/
-  #    bibtex: https://bib.yliu.me/MICCAI23.txt
-  #    notes: Early Accept
+  # code: https://github.com/MrGiovanni/ContinualLearning
+  # page: https://lyy.mpi-inf.mpg.de/CL-DETR/
+  # bibtex: https://bib.yliu.me/MICCAI23.txt
+  # notes: Early Accept
+  
   # title: "Mitigating School Closures: Parental Responses and Tutoring Vouchers"
   # authors: with <a href="https://www.hyunjaekang.com/" target="_blank">Hyunjae Kang</a> and <a href="https://scholar.google.com/citations?user=KbwSFo4AAAAJ&hl=ko" target="_blank">TaeYoung Kang</a> 
   # pdf: https://jaykanglabor.github.io/jobmarket/KangKangKim_Voucher.pdf
   # abstract: "We investigate how reduced in-person school days affect educational inequality through parental responses. Exploiting quasi-experimental variation in school-level in-person days and a linked administrative–survey panel, we find that each ten-day loss increases household tutoring expenditure by 4 percent and within-school test-score dispersion by 25 percent. We build and estimate a household choice model where formal schooling and tutoring jointly generate test scores. Estimates suggest tutoring substitutes for in-person days and that closures burden low-income households disproportionately. Counterfactual simulations show that a means-tested tutoring-voucher program matches the overall inequality reduction of a universal scheme while cutting costs by 20 percent."
   # status: Revise and Resubmit, <strong style="color:#002D72; font-weight:600">Journal of Applied Econometrics</strong>
   # media: Media Coverage (Korean):<a href="https://www.khan.co.kr/national/national-general/article/202211301346001" target="_blank"> The Kyunghyang Shinmun</a>
+
   
   - title: "The Economic Geography of Talent: Evidence from the China Initiative"
     authors: with Ningyuan Jia and Jia Yang
+    abstract: "This project examines how the China Initiative, a U.S. national security policy launched in 2018, reshaped the spatial distribution of Chinese-born researchers and skilled workers across firms and regions. Using online job postings, publication, and patent data, we analyze how heightened scrutiny prompted worker relocation across firms and regions, and reduced collaboration between U.S. and China-affiliated institutions. The project explores how geopolitical tensions and policy uncertainty reshape the geography of talent and innovation."
   # pdf: https://sunhamkim.github.io/files/pdf/HanKim.pdf
   # status: UCLA Ziman Center WP No. 2023-13
-   abstract: "This project examines how the China Initiative, a U.S. national security policy launched in 2018, reshaped the spatial distribution of Chinese-born researchers and skilled workers across firms and regions. Using online job postings, publication, and patent data, we analyze how heightened scrutiny prompted worker relocation across firms and regions, and reduced collaboration between U.S. and China-affiliated institutions. The project explores how geopolitical tensions and policy uncertainty reshape the geography of talent and innovation."
+    
