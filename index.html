@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yuanhang (Leo) Yu</title>
+    <meta name="description" content="Yuanhang (Leo) Yu - PhD Candidate in Economics at the London School of Economics.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        :root {
+            --text-color: #333;
+            --heading-color: #222;
+            --link-color: #b91c1c;
+            --link-hover: #1d4ed8;
+            --muted-color: #666;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+            color: var(--text-color);
+            background: #ffffff;
+            line-height: 1.7;
+            font-size: 16px;
+        }
+
+        a { color: var(--link-color); text-decoration: none; }
+        a:hover { color: var(--link-hover); text-decoration: underline; }
+
+        /* ── Top Header ── */
+        .top-header {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 1.8rem 2rem 0.8rem;
+            /* nav left-aligns with main content: sidebar 280px + gap 3.5rem */
+            padding-left: calc(280px + 3.5rem + 2rem);
+        }
+
+        .top-nav { display: flex; gap: 2rem; }
+        .top-nav a {
+            font-size: 0.82rem;
+            font-weight: 600;
+            color: #555;
+            text-decoration: none;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            transition: color 0.15s;
+        }
+        .top-nav a:hover { color: var(--heading-color); text-decoration: none; }
+
+        /* ── Page Layout ── */
+        .page {
+            max-width: 1100px;
+            margin: 0 auto;
+            display: flex;
+            gap: 3.5rem;
+            padding: 1.5rem 2rem 4rem;
+        }
+
+        /* ── Sidebar ── */
+        .sidebar {
+            width: 280px;
+            min-width: 280px;
+            padding-top: 0.5rem;
+            /* FIX 1: everything in sidebar centered */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .sidebar .profile-photo {
+            /* FIX 1: photo always centered regardless of size */
+            width: 80%;
+            aspect-ratio: 3/4;
+            object-fit: cover;
+            border-radius: 4px;
+            margin-bottom: 0.8rem;
+            display: block;
+        }
+
+        .sidebar .sidebar-name {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--heading-color);
+            letter-spacing: 0.06em;
+            text-align: center;
+            margin-bottom: 0.3rem;
+        }
+
+        .sidebar .title-label {
+            text-align: center;
+            font-size: 0.82rem;
+            font-weight: 600;
+            color: #555;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            margin-bottom: 0.15rem;
+        }
+
+        .sidebar .institution {
+            text-align: center;
+            font-size: 0.95rem;
+            color: var(--muted-color);
+            margin-bottom: 1rem;
+        }
+
+        .sidebar .cv-btn {
+            display: block;
+            text-align: center;
+            border: 1.5px solid var(--heading-color);
+            color: var(--heading-color);
+            padding: 0.45rem 1.2rem;
+            border-radius: 4px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            margin-bottom: 1.2rem;
+            width: fit-content;
+            transition: all 0.2s;
+            text-decoration: none;
+        }
+        .sidebar .cv-btn:hover {
+            background: var(--heading-color);
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .sidebar .email-link {
+            text-align: center;
+            font-size: 0.92rem;
+            margin-bottom: 1rem;
+        }
+
+        .sidebar .address {
+            text-align: center;
+            font-size: 0.88rem;
+            color: var(--muted-color);
+            line-height: 1.5;
+            margin-bottom: 1.2rem;
+        }
+
+        .sidebar .social-icons {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 0.8rem;
+        }
+        .sidebar .social-icons a {
+            color: #666;
+            font-size: 1.1rem;
+            transition: color 0.15s;
+        }
+        .sidebar .social-icons a:hover { color: var(--heading-color); text-decoration: none; }
+
+        .sidebar .separator {
+            border: none;
+            border-top: 1px solid #ddd;
+            margin: 0.3rem 0;
+            width: 60%;
+        }
+
+        /* ── Main Content ── */
+        .main { flex: 1; min-width: 0; }
+        .main section { margin-bottom: 2.5rem; }
+
+        /* FIX 3: Section titles — bold but thinner */
+        .main h2 {
+            font-size: 1.15rem;
+            font-weight: 400;
+            color: var(--heading-color);
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            margin-bottom: 0.6rem;
+            padding-bottom: 0.4rem;
+            border-bottom: 1.5px solid var(--heading-color);
+        }
+
+        .main p { margin-bottom: 0.8rem; }
+
+        /* ── Papers ── */
+        .paper { margin-bottom: 1.6rem; }
+
+        /* FIX 2: Paper titles NOT bold */
+        .paper-title {
+            font-size: 1.05rem;
+            font-weight: 400;
+            font-family: 'Georgia', 'Times New Roman', serif;
+            color: var(--heading-color);
+            line-height: 1.4;
+            margin-bottom: 0.1rem;
+        }
+
+        .jmp-tag {
+            font-size: 0.85rem;
+            font-weight: 400;
+            font-style: italic;
+            color: var(--link-color);
+        }
+
+        .paper-authors {
+            font-size: 0.92rem;
+            color: var(--muted-color);
+            font-style: italic;
+            margin-bottom: 0.35rem;
+        }
+
+        .paper-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+            align-items: center;
+            margin-bottom: 0.3rem;
+        }
+        .paper-links a,
+        .paper-links .toggle-btn {
+            font-size: 0.88rem;
+            font-weight: 600;
+            color: var(--link-color);
+            cursor: pointer;
+            border: none;
+            background: none;
+            padding: 0;
+            font-family: inherit;
+            text-decoration: none;
+        }
+        .paper-links a:hover,
+        .paper-links .toggle-btn:hover { text-decoration: underline; }
+
+        .paper-extra {
+            display: none;
+            margin-top: 0.5rem;
+            padding: 0.8rem 1rem;
+            background: #ffffff;
+            border-left: 3px solid var(--link-color);
+            border-radius: 0 4px 4px 0;
+            font-size: 0.92rem;
+            line-height: 1.65;
+            color: #444;
+        }
+        .paper-extra.show { display: block; }
+
+        /* ── Teaching ── */
+        .teaching-group { margin-bottom: 1.3rem; }
+        .teaching-group h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--heading-color);
+            margin-bottom: 0.5rem;
+        }
+        .teaching-item {
+            display: flex;
+            align-items: baseline;
+            gap: 0.6rem;
+            padding: 0.3rem 0;
+        }
+        .teaching-name { flex: 1; }
+        .teaching-level {
+            font-size: 0.82rem;
+            color: var(--muted-color);
+            font-style: italic;
+            white-space: nowrap;
+        }
+
+        /* ── References ── */
+        .references-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.6rem 2.5rem;
+            margin-top: 0.5rem;
+        }
+        .ref-name { font-weight: 600; color: var(--heading-color); }
+        .ref-affil { font-size: 0.88rem; color: var(--muted-color); }
+
+        /* ── Miscellaneous ── */
+        .misc-links {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            margin-top: 0.3rem;
+        }
+        .misc-links a {
+            font-size: 1rem;
+            color: var(--link-color);
+            font-weight: 400;
+        }
+
+        /* ── Mobile ── */
+        @media (max-width: 850px) {
+            .top-header {
+                padding: 1.2rem 1.5rem 0.6rem;
+            }
+            .top-nav { gap: 1.2rem; flex-wrap: wrap; justify-content: center; }
+            .page {
+                flex-direction: column;
+                padding: 1rem 1.5rem 3rem;
+                gap: 2rem;
+            }
+            .sidebar {
+                width: 100%;
+                min-width: unset;
+                max-width: 320px;
+                margin: 0 auto;
+            }
+            .sidebar .profile-photo { width: 70%; }
+            .references-grid { grid-template-columns: 1fr; }
+        }
+
+        @media (max-width: 500px) {
+            .top-nav { gap: 0.8rem; }
+            .top-nav a { font-size: 0.72rem; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ── Top Header ── -->
+<header class="top-header">
+    <nav class="top-nav">
+        <a href="#about">About</a>
+        <a href="#working-papers">Working Papers</a>
+        <a href="#work-in-progress">Work in Progress</a>
+        <a href="#policy-work">Policy Work</a>
+        <a href="#teaching">Teaching</a>
+    </nav>
+</header>
+
+<!-- ── Page Content ── -->
+<div class="page">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <img src="assets/img/profile.jpg" alt="Yuanhang (Leo) Yu" class="profile-photo"
+             onerror="this.style.background='#e5e7eb';this.style.minHeight='280px';this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 280 370%22%3E%3Crect fill=%22%23e5e7eb%22 width=%22280%22 height=%22370%22/%3E%3Ctext x=%22140%22 y=%22195%22 text-anchor=%22middle%22 fill=%22%239ca3af%22 font-size=%2248%22 font-family=%22sans-serif%22%3EYY%3C/text%3E%3C/svg%3E'">
+
+        <div class="sidebar-name">YUANHANG (LEO) YU</div>
+
+        <div class="title-label">PhD Candidate in Economics</div>        <div class="institution">London School of Economics</div>
+
+        <a href="files/CV_YuanhangYu.pdf" class="cv-btn">Download CV</a>
+
+        <a href="mailto:y.yu42@lse.ac.uk" class="email-link">y.yu42@lse.ac.uk</a>
+
+        <div class="address">
+            Department of Economics<br>
+            Houghton Street<br>
+            London WC2A 2AE, UK
+        </div>
+
+        <div class="social-icons">
+            <a href="https://scholar.google.com/" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+            <a href="https://github.com/yuanhang-leo-yu" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+            <a href="https://twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+        </div>
+
+        <hr class="separator">
+    </aside>
+
+    <!-- Main -->
+    <main class="main">
+
+        <!-- About -->
+        <section id="about">
+            <h2>About</h2>
+            <p>
+                I am a PhD Candidate in Economics at the London School of Economics (LSE). I use micro-level data and structural models to study topics in international trade, economic geography, and the environment.
+            </p>
+            <p><strong>I am on the 2025–2026 job market.</strong></p>
+            <p>
+                <strong>Research Interests:</strong><br>
+                Primary: International Trade, Spatial Economics, Economic Geography<br>
+                Secondary: Environmental Economics, Climate Change
+            </p>
+        </section>
+
+        <!-- Working Papers -->
+        <section id="working-papers">
+            <h2>Working Papers</h2>
+
+            <div class="paper">
+                <div class="paper-title">
+                    Pollution Without Borders: Transboundary Air Pollution and the Geography of Pollutant Control Policy
+                    <span class="jmp-tag">(Job Market Paper)</span>
+                </div>
+                <div class="paper-links">
+                    <button class="toggle-btn" onclick="toggle('abs1')">▸ Abstract</button>
+                    <a href="files/JMP_YuanhangYu.pdf">[Paper]</a>
+                    <button class="toggle-btn" onclick="toggle('pres1')">▸ Presentations</button>
+                </div>
+                <div class="paper-extra" id="abs1">
+                    This paper investigates the spatial spillover effects of air pollution and how transboundary pollution shapes the geography of pollutant control policy. Using micro-level data and a structural spatial model, I study how pollution crosses administrative boundaries and how this externality affects the design and effectiveness of environmental regulation.
+                    <br><br><em>[Please update with your full abstract]</em>
+                </div>
+                <div class="paper-extra" id="pres1">
+                    <strong>Presentations:</strong> <em>[Please add your presentations here]</em>
+                </div>
+            </div>
+
+            <div class="paper">
+                <div class="paper-title">Gendered Labour Market Sorting in Response to Trade Shocks</div>
+                <div class="paper-links">
+                    <button class="toggle-btn" onclick="toggle('abs2')">▸ Abstract</button>
+                </div>
+                <div class="paper-extra" id="abs2">
+                    This paper studies how trade shocks affect the sorting of men and women across occupations and industries.
+                    <br><br><em>[Please update with your full abstract]</em>
+                </div>
+            </div>
+
+            <div class="paper">
+                <div class="paper-title">Automation and the British Labour Market</div>
+                <div class="paper-authors">with Rui Costa</div>
+                <div class="paper-links">
+                    <button class="toggle-btn" onclick="toggle('abs3')">▸ Abstract</button>
+                </div>
+                <div class="paper-extra" id="abs3">
+                    We study the impact of automation technologies on the British labour market.
+                    <br><br><em>[Please update with your full abstract]</em>
+                </div>
+            </div>
+        </section>
+
+        <!-- Work in Progress -->
+        <section id="work-in-progress">
+            <h2>Work in Progress</h2>
+            <div class="paper">
+                <div class="paper-title">[Paper Title Placeholder]</div>
+                <div class="paper-authors">with [Coauthors]</div>
+            </div>
+            <div class="paper">
+                <div class="paper-title">[Paper Title Placeholder]</div>
+            </div>
+        </section>
+
+        <!-- Policy Work -->
+        <section id="policy-work">
+            <h2>Policy Work</h2>
+            <div class="paper">
+                <div class="paper-title">Automating Labour: The Real Fear Is Not Enough Robots</div>
+                <div class="paper-authors">with Rui Costa</div>
+                <div class="paper-links">
+                    <a href="#">Economy 2030 Inquiry Briefing</a>
+                </div>
+            </div>
+            <div class="paper">
+                <div class="paper-title">[Policy Paper Title Placeholder]</div>
+                <div class="paper-links">
+                    <a href="#">[Source]</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Teaching -->
+        <section id="teaching">
+            <h2>Teaching</h2>
+            <div class="teaching-group">
+                <h3>Teaching Assistant, LSE</h3>
+                <div class="teaching-item">
+                    <span class="teaching-name">International Economics</span>
+                    <span class="teaching-level">undergraduate</span>
+                </div>
+                <div class="teaching-item">
+                    <span class="teaching-name">Trade and Development</span>
+                    <span class="teaching-level">graduate</span>
+                </div>
+                <div class="teaching-item">
+                    <span class="teaching-name">[Course Name Placeholder]</span>
+                    <span class="teaching-level">undergraduate</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- References -->
+        <section id="references">
+            <h2>References</h2>
+            <div class="references-grid">
+                <div>
+                    <div class="ref-name"><a href="mailto:d.m.sturm@lse.ac.uk">Daniel Sturm</a></div>
+                    <div class="ref-affil">LSE</div>
+                </div>
+                <div>
+                    <div class="ref-name"><a href="mailto:t.a.sampson@lse.ac.uk">Thomas Sampson</a></div>
+                    <div class="ref-affil">LSE</div>
+                </div>
+                <div>
+                    <div class="ref-name"><a href="mailto:c.a.balboni@lse.ac.uk">Clare Balboni</a></div>
+                    <div class="ref-affil">LSE</div>
+                </div>
+                <div>
+                    <div class="ref-name"><a href="mailto:c.m.thomas@lse.ac.uk">Catherine Thomas</a></div>
+                    <div class="ref-affil">LSE</div>
+                </div>
+            </div>
+            <p style="margin-top:0.8rem; font-size:0.88rem; color:var(--muted-color);">
+                <strong>Placement Officer:</strong> <a href="mailto:m.doepke@lse.ac.uk">Matthias Doepke</a>
+            </p>
+        </section>
+
+        <!-- Miscellaneous -->
+        <section id="miscellaneous">
+            <h2>Miscellaneous</h2>
+            <div class="misc-links">
+                <a href="economists.html">Economists</a>
+                <a href="useful-links.html">Useful Links</a>
+            </div>
+        </section>
+
+    </main>
+</div>
+
+<script>
+function toggle(id) {
+    document.getElementById(id).classList.toggle('show');
+}
+document.querySelectorAll('a[href^="#"]').forEach(a => {
+    a.addEventListener('click', e => {
+        e.preventDefault();
+        const t = document.querySelector(a.getAttribute('href'));
+        if (t) t.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+});
+</script>
+
+</body>
+</html>
